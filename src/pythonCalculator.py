@@ -22,7 +22,6 @@ def basicCalculator(operation, num1, num2):
             result = num1 / num2
     return result
 
-
 if __name__ == "__main__":
     print(basicCalculator(Operation.DIVIDE, 1, 2))
 
